@@ -8,19 +8,21 @@
 
 
 	
- <picture><img src = width = 50px></picture> **About me**
+	
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src= width = 250px></picture>
-
-<br>
-
-- A passionate Self-taught Front-end developer
-- System Engineering Student
-- Currently learning Web Development by Self
-- Code Lover
-- I’m currently open for an Intern or a new job opportunity
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
+
+- :school: I am a `Junior` at [System engineering](https://en.wikipedia.org/wiki/Systems_engineering#:~:text=Systems%20engineering%20is%20an%20interdisciplinary,organize%20this%20body%20of%20knowledge.) at [OyM University](https://www.udoym.edu.do/).
+- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`
+
+<br>
 
 
 
