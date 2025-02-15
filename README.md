@@ -17,7 +17,7 @@
 
 - :school: I am a `Junior` at [System engineering](https://en.wikipedia.org/wiki/Systems_engineering#:~:text=Systems%20engineering%20is%20an%20interdisciplinary,organize%20this%20body%20of%20knowledge.) at [OyM University](https://www.udoym.edu.do/).
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :computer: I am a competitive programmer at `Codeforces`, `Leetcode` and `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`
@@ -58,7 +58,7 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+     
 
 <br>
 
@@ -72,9 +72,9 @@
 
 
 
+## <h1 align="center"><b>Thanks for being here!✨</b></h1>
 
-
-## <b align="center" >Thanks for being here!✨</b>
+ 
 
 </div>
 <br>
