@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an IT Junior with experience designing, developing, and maintaining business-critical technology solutions.
+I'm an Software Developer with experience designing, developing, and maintaining business-critical technology solutions.
 
 My work combines software development, systems administration, automation, and business process optimization.
 
