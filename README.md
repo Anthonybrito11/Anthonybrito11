@@ -1,91 +1,106 @@
+# Anthony Brito
 
-<h1 align="center">Anthony Brito</h1>
+**Software Developer | Backend Focus | APIs & Database Systems**
 
-<p align="center">
-  <strong>IT Junior • Full Stack Developer in process • Web automation </strong>
-</p>
-
-<p align="center">
-  Building scalable web applications, automating business processes, and transforming operational challenges into technology solutions.
-</p>
+Building backend solutions that power real business operations. I specialize in designing scalable APIs, managing databases, implementing secure authentication systems, and developing business logic for administrative and enterprise applications.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm an Software Developer with experience designing, developing, and maintaining business-critical technology solutions.
+I'm a Software Developer focused on backend architecture and system design. I build end-to-end solutions that solve real business problems—from database design and API development to deployment and maintenance.
 
-My work combines software development, systems administration, automation, and business process optimization.
-
-### Current Focus
-
-- 🚀 Full Stack Web Applications
-- 📦 Inventory Management Systems
-- 💰 Sales & Business Platforms
-- 🤖 Process Automation
-- 🔐 IT Infrastructure & Systems Administration
-- 📊 Data Management & Analytics
-- 🌐 Corporate Websites & Internal Tools
+I learn by building: enterprise management systems, inventory solutions, client/patient administration platforms, and systems that replace manual processes with automated workflows. My work is production-ready and used by real clients.
 
 ---
 
-## 🛠️ Tech Stack
+## Backend Focus
 
-### Frontend
+My core expertise centers on **server-side development, data management, and system integration**:
 
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- **API Design & Development** – Building secure, maintainable REST APIs with proper authentication and authorization
+- **Database Architecture** – Designing relational schemas, optimizations, and implementing Row Level Security policies
+- **Business Logic** – Implementing complex workflows, validations, and operational rules
+- **Authentication & Security** – User management, role-based access control, session handling, and secure data protection
+- **Systems Integration** – Connecting applications with databases, third-party services, and business processes
+- **Backend Infrastructure** – Deployment, configuration, monitoring, and production environments
 
-### Backend & Database
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Automation & Development
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+I use frontend technologies (React, Next.js, TypeScript) to build interfaces that showcase backend solutions, but my primary focus is the systems that power them.
 
 ---
 
-## 🚀 What I Build
+## Core Technologies
 
-- Enterprise Web Applications
-- Inventory & Sales Management Systems WEBAPPS
-- Internal Business Dashboards
-- Automation Solutions
-- Data Processing Workflows
-- CRM & ERP Integrations
-- Business Process Optimization Tools
+**Backend & Languages:**
+- C# & .NET / ASP.NET Core
+- Node.js & TypeScript
+- REST API design and development
 
----
+**Databases & Data:**
+- PostgreSQL (primary)
+- Supabase (managed PostgreSQL with authentication)
+- SQL optimization and database design
+- Row Level Security (RLS) policies
 
-## 📈 Professional Goal
-
-I enjoy developing technology solutions that increase productivity, reduce manual work, and help businesses scale through automation and modern web technologies.
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: 
-- Portfolio:
-- Email: 
+**Architecture & Tools:**
+- TypeScript for type-safe server-side code
+- Git & GitHub for version control
+- Database migration and version control
+- Testing and debugging methodologies
 
 ---
 
-<p align="center">
-  <i>Building technology that solves real business problems.</i>
-</p>
+## What I'm Building
 
+**Real systems that businesses rely on:**
+
+- **Administrative & Management Systems** – Product management, inventory control, category organization, business configuration dashboards
+- **Client Management Platforms** – Appointment scheduling, client/patient records, communication workflows
+- **Authenticated Applications** – Multi-user systems with role-based access, permission management, and data isolation
+- **REST APIs** – Services handling business logic, data validation, and complex workflows
+- **Data-Driven Solutions** – Systems that collect, process, validate, and organize business data
+- **Production Deployments** – Full lifecycle from development to live systems used by real clients
+
+---
+
+## Currently Learning
+
+- **C# & .NET deeper** – Moving beyond basics into solid architectural patterns
+- **ASP.NET Core** – Building robust backend services
+- **PostgreSQL advanced** – Complex queries, indexing, performance tuning, and advanced security patterns
+- **Software Architecture** – Design patterns, SOLID principles, clean code, and maintainability
+- **Banking & Financial Systems** – Understanding domain requirements for mission-critical applications
+- **System Design** – Scalability, reliability, and designing for growth
+
+---
+
+## Professional Direction
+
+My goal is to become a specialized **Backend Developer** capable of designing and building **secure, scalable, maintainable systems**:
+
+- Strengthen expertise in C#, .NET, and ASP.NET Core
+- Master PostgreSQL, SQL, and relational database design
+- Design enterprise-grade APIs and microservices
+- Develop deep knowledge of authentication, authorization, and security best practices
+- Build systems for financial, banking, or mission-critical domains
+- Transition into a professional role as Software Developer or Backend Developer
+
+---
+
+## Featured Projects
+
+- **[Project Title]** – [Brief description] | [Link]
+- **[Project Title]** – [Brief description] | [Link]
+- **[Project Title]** – [Brief description] | [Link]
+
+---
+
+## Connect With Me
+
+- **LinkedIn:** [Add your profile URL]
+- **Email:** [Add your email]
+- **Portfolio:** [Add your portfolio URL]
+
+---
+
+*Building backend systems that solve real business problems, one database and API at a time.*
