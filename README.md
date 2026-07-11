@@ -61,16 +61,6 @@ Sistemas reales que los negocios utilizan:
 
 ---
 
-## Aprendiendo Actualmente
-
-- **C# & .NET profundo** – Patrones arquitectónicos y principios SOLID
-- **ASP.NET Core** – Servicios backend robustos
-- **PostgreSQL avanzado** – Queries complejas, índices y seguridad
-- **Arquitectura de Software** – Diseño escalable y mantenible
-- **Sistemas Financieros y Empresariales** – Dominios críticos
-
----
-
 ## Dirección Profesional
 
 Especialización en **Backend Developer** con capacidad de diseñar sistemas seguros y escalables:
@@ -82,21 +72,3 @@ Especialización en **Backend Developer** con capacidad de diseñar sistemas seg
 - Desarrollar sistemas empresariales y financieros
 
 ---
-
-## Proyectos Destacados
-
-- **[Proyecto]** – [Descripción breve] | [Link]
-- **[Proyecto]** – [Descripción breve] | [Link]
-- **[Proyecto]** – [Descripción breve] | [Link]
-
----
-
-## Contacto
-
-- **LinkedIn:** [Tu perfil]
-- **Email:** [Tu email]
-- **Portfolio:** [Tu portfolio]
-
----
-
-*Construyendo sistemas backend que resuelven problemas reales de negocio.*
